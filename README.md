@@ -6,6 +6,7 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 # EQUIPMENTS REQUIRED
 
 # IP ASSIGNMENT
+<img width="985" height="429" alt="exp 3 ip table" src="https://github.com/user-attachments/assets/cb9176d2-94e0-4f5f-b92b-e63b7f7ddd02" />
 
 # NETWORK DIAGRAM
 
